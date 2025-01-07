@@ -1,5 +1,7 @@
 # Certifications
 
+by: Niño Castorico
+
 ## Harvard Mentor
 
 | ![Career Management](https://raw.githubusercontent.com/bncast/Certifications/refs/heads/main/Thumbnails/HardvardMentor%20-%20Career%20Management.pdf.webp) | ![Decision Making](https://raw.githubusercontent.com/bncast/Certifications/refs/heads/main/Thumbnails/HardvardMentor%20-%20Decision%20Making.pdf.webp) | ![Leading People](https://raw.githubusercontent.com/bncast/Certifications/refs/heads/main/Thumbnails/HardvardMentor%20-%20Leading%20People.pdf.webp) | ![Strategy Planning and Execution](https://raw.githubusercontent.com/bncast/Certifications/refs/heads/main/Thumbnails/HardvardMentor%20-%20Strategy%20Planning%20and%20Execution.pdf.webp) |
