@@ -1,4 +1,4 @@
-# Learning Certificates Accumulated by Nino Castorico
+# Learning Certificates accumulated by Nino Castorico
 Explore the comprehensive learning paths and certifications completed by Niño Castorico in various key areas, including Cybersecurity, AI Ethics, Leadership, and Agile methodologies.
 
 ## Harvard Mentor
